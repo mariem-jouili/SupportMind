@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8942c34-75ed-4cea-90e0-9567f3b38d9e" name="Changes" comment="feat: EDA">
-      <change beforePath="$PROJECT_DIR$/ notebooks/dataset_audit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ notebooks/dataset_audit.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/audit_dataset.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/check_duplicates.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/check_provenance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/check_text_diversity.py" beforeDir="false" />
-    </list>
+    <list default="true" id="b8942c34-75ed-4cea-90e0-9567f3b38d9e" name="Changes" comment="feat: EDA-v1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,11 +94,20 @@
       <option name="project" value="LOCAL" />
       <updated>1795359636611</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: EDA-v1">
+      <option name="closed" value="true" />
+      <created>1795369391955</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1795369391955</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: EDA" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: EDA" />
+    <MESSAGE value="feat: EDA-v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: EDA-v1" />
   </component>
 </project>
