@@ -1,0 +1,556 @@
+ticket_text,category,group_id
+"several users on my floor - machine boots into safe mode randomly, very slow to use",Software,2
+"machine boots into safe mode randomly, very slow to use",Software,2
+our entire team - task scheduler job failing with 0xc000021a on APPSRV-03,Software,19
+"need shared drive \\APPSRV-03\Finance access for sales project, tried restarting but no luck",Access/Login,20
+"please help immediately, zoom freezes after 50 minutes on video calls",Software,24
+"at your convenience, intermittent packet loss to FSRV-02 causing applicatiion to freeze, thanks in advance",Network,25
+"cannot work at all, cannot access company portal from home, works in office, kindly resolve this",Access/Login,34
+"wod document not saving, losing work repeatedly, kindly resolve his",Software,37
+"software installation failing with error timeout, thanks in advance",Software,41
+"iwfi keeps dropping every 50 minutes, very annoying, kinddly resolve this",Network,43
+"my desktop machine - email recall feature not working, message already read",Email,45
+"forgot windows password and machine is now locked, kindly resolve this",Access/Login,59
+"all users in wing west - pdf files not opening with adobe, asks to asociate every time, kindly resolve this",Software,77
+"cannot ping SRV-DB01 from my laptop, 100 percent packet loss, please help asap",Network,78
+me and two colleagues - vendor Rohan needs temporary guest wifi and intranet portal access for 2 days,Access/Login,79
+"new emplooyee starting monday, need SAP and email access ready",Access/Login,87
+whole team blocked - network printer the shared printer ot showing on the network,Network,95
+"network swich in lab 3 rebooted itself, connectivity lost for 80 users",Network,108
+"please help immediately, email signature disappeared after recent outlook update",Email,113
+my workstation - intermittent packet loss to FSRV-02 causing application to freeze,Network,114
+"outlook extremely slow when opening, takes 100 minuets to load",Email,129
+"my desktop machine - new employee starting monday, need Salesforce and eemail ccess ready",Access/Login,130
+"all browser bookmarks disappeared after chrome update, already raised this verbally",Software,136
+"escalating this - need dump of employees from ARCHIVE_DB for auddit by audit team, please help asap",Database,137
+"no rush but remote desktop to SRV-DB01 fails with ERR_CONNECTION_RESET, cannot access my work machine, tried restarting but no luck",Network,145
+low priority - email signature disappeared after recent outlook update,Email,113
+"wifi keeps dropping every 30 minutes, very annoying",Network,147
+"headphone jack on laptop broken, needed for client calls",Hardware,155
+"account disabled by mistake, cannot login to anything",Access/Login,165
+"all users in wing east - Photoshop using 99 percent cpu making laptop unusable, kindyl resolve this",Software,167
+"our entire team - desktop fan very lou,d machine shutting down due to heat",Hardware,175
+"business impacted - deadlock occurring between two jobs on transactions every 30 mins, thanks in advance",Database,177
+"critical issue - internet speed extremely slow in cafeteria, file uploads ont completing",Network,181
+front usb ports on desktop not working at all,Hardware,182
+"fingerprint login broken after windows update, have to type password, already raised this verbally",Access/Login,186
+"business impacted - account disabled by mistake, cannot login to anything",Access/Login,165
+"whenever you get a chance, start menu search not working after cumulative update",Software,189
+me and two colleagues - outlook keeps crashing when i open attachments since this morning,Software,190
+"account disabled by mistake, cannot login to anything, please escalate if needed",Access/Login,165
+"several users on my floor - email recall feature not working, message already read, this is blocking my work",Email,45
+"software installation failing with error timeout, this is blocking my work",Software,200
+"urgent - ll users in wing B - outlook prompting for password every few minutes, please look into it",Email,218
+"account disabled by mistake, cannot login to anything, kindly resolve this",Access/Login,165
+"my desktop machine - cannot ping SRV-01 from my laptop, 100 eprcent packet loss",Network,224
+"email recall feature not working, message already read",Email,45
+"our entire team - start menu search not working after cumulative update, kindly resolve this",Software,233
+laptop battery drains in 10 hours een when plugged in,Hardware,234
+"critical isue - cannot ping FSRV-02 from my laptop, 100 percent packet loss",Network,236
+emails bouncing back with error 0x80070005,Email,237
+nt urgent - start menu search not working aafter cumulative update,Software,238
+need bulk access provisioning for 15 new joiners in audit team,Access/Login,242
+need bulk access provisioning for 15 neew joiners in procurement team,Access/Login,250
+"critical isue - our entire team - windows update stuck at 30 percent foor 30 hours now, please escalate if needed",Software,251
+"my workstation - paper jam in Canon printer in lab 3, cleared it but keeps happening",Hardware,267
+outlook desktop and web showing different inbox contents,Email,269
+"all users in wing C - inbox rules stopped working, emails laning in wrng folders",Email,270
+hsared mailbox access for legal not working after mailbox migration,Access/Login,271
+whole team blocked - numpad not wworking after coffee spill on keyboard yesterday,Hardware,294
+"dns not resolving DC01 from office laptops, thanks in advance",Network,297
+scanner in reception area not detected after driver update,Hardware,310
+"need shared drive \\DC01\Invoices access for marketing project, tried restarting but no luck",Access/Login,316
+"ram seems low, machine evry slow whhen opening 50 tabs",Hardware,318
+shared mailbox access for legal not working after mailbox migration,Access/Login,271
+"vendor Priya needs temporary guest wifi and intranet portal access for 2 days, please escalate if needed",Access/Login,322
+"all browser bookmarks disappeared after chrome update, need this fixed today",Software,136
+i and my manager - replication lag between primary and standby on FSRV-02 is 15 mins,Database,333
+"mouse pointer freezing every few minutes, tired different usb port",Hardware,336
+our entire team - all browser bookmarks disappeared after chrome update,Software,136
+"colleague Raul left, please transfer their Design folder access to me",Access/Login,343
+outlook keeps crashing when i open attachments since this morning,Software,190
+"at your convenience, laptop charger cable fraying, worried it will stop working, already raised his verbally",Hardware,347
+"cannot work at all, wireless access point in conference room A not broadcasting ssid, already raised this verbally",Network,353
+"calculator and snipping tool missing after windows 11 upgrade, need this fixed today",Software,361
+"my desktop machine - vpn not connecting since yesterday aftrenoon, error 401 keeps showing",Network,371
+"our entire team - vendor Vikram needs temporary guest wifi and Conflence access for 2 days, this is blocking my work",Access/Login,372
+forgot windows password and machine is now locked,Access/Login,59
+network share \\SRV-01\Finance is inaccessible after the weekend,Network,388
+"whenever you get a chance, my desktop machine - Zoom using 99 percent cpu making laptop unusable",Software,399
+whole team blocked - our entire team - calculator and snipping tool missing after windows 11 upgrade,Software,361
+"no rush but Firefox throws error 401 on every launch since tthe update, any help appreciated",Software,401
+"i and my manager - machine boots into safe mode randomly, very slow to use, need this fixed today",Software,2
+"front usb ports on desktop not working at all, please look into it",Hardware,182
+"fingerprint login broken after windows updat,e have to type password",Access/Login,412
+"my desktop machine - all browser bookmarks disappeared after chrome update, urgent please",Software,136
+need dump of users from SALES_DB for audit by audit team,Database,420
+not urgent - barcode scanner at reception stopped working since the power cut yesterday,Hardware,422
+"email recall feature not working, message already read, this is blocking my work",Email,45
+"whenever yyou get a chance, touch screen on surface pro not respponding to input, please look into it",Hardware,432
+"whenever you get a chance, all users in wing ground floor - laod balancer marking SRV-01 as down, half the application is broken, please help asap",Network,435
+"need read access to ARCHIVE_DB for finance reporting, manager approved, tried restarting but no luck",Database,437
+"vpn disconnects automatically after 50 minutes of idlle time, need this fixed today",Network,446
+"production is down - excel file says corrupted and ont open, need data urgently, please help asap",Software,448
+"production is down - application cannot connect to SALES_DB from DC01 from around 9 am today, already raised this verbally",Database,452
+"site-to-site vpn tunnel keeps ropping, production systems unreachable",Network,473
+"the new joiner - vpn not connecting sinnce the power cut yesterday, error 0xc000021a keeps showing",Network,477
+user Priya not able to access Reports after folder permission change,Access/Login,491
+"headphone jack on laptop broken, needed for client calls, already raised this verbally",Hardware,155
+everyone affected - i and my manager - zoom freezes after 2 minutes on vido calls,Software,494
+"at your convenience, several users on my floor - office phone handset nt working, no dial tone",Hardware,518
+"new employee starting monday, ened Jira adn email access ready",Access/Login,523
+"no rush but sent emails stuck in outbox and not delivering, urgent please",Email,535
+i and my manager - all browser bookmarks disappeared after chrome update,Software,136
+"business impacted - i and my manager - vpn client installer not working on windows 11, error ERR_CONNECTION_RESET, tried restarting but no luck",Network,555
+"at your convenience, intermittent packet loss to FSRV-02 causing application to freeze",Network,114
+"fingerprint login broken after windows update, have to type password",Access/Login,186
+outlook keeps crashing when i open attachments ince monday,Software,572
+business impacted - outlook desktop and web showing different inbox contents,Email,269
+"no rush but vpn client installer not working on widows 11, error 0xc000021a, please help asap",Network,573
+calculator and snipping tool missing after windows 11 upgrade,Software,361
+"our entire team - excel file says corrupted and wont open, need data urgently, already raised this verbally",Software,589
+cannot install Fierfox as it says another version already installed,Software,601
+"cannot install Slack as it says another version already insatlled, kindly resolve this",Software,607
+"software installation failing with error 4011, tried restarting but no luck",Software,608
+"escalating this - cannot ping APPSRV-03 from my laptop, 100 percent packet loss, please help asap",Network,78
+"critical issue - locked out of my account after 50 failed attempts suddenly ttoday, already raised this verbally",Access/Login,609
+email signature disappeared after recent outlook update,Email,113
+"all users in wing ground floor - cannot send emails over 100 mb, getting rejected by server",Email,610
+"whenever you get a chance, load balancer marking SRV-DB01 as down, half the application is broken, please escalate if needed",Network,616
+"account disabled by mistake, cannot login to anything, thanks in advance",Access/Login,165
+"calculator and snipping tool missing after windows 11 upgrade, thanks in advance",Software,361
+"whenever you get a chance, software installation failnig with error ERR_CONNECTION_RESET",Software,637
+"fingerprint login broken after windows update, have to type password, any help appreciated",Access/Login,186
+Excel license expired opup appearing every feew minutes,Software,645
+"no rush but cannot access company portal from home, works in office",Access/Login,34
+"critical issue - application cannot connect to REPORTING_DB from AAPPSRV-03 from around 9 am today, need this ifxed today",Database,658
+"cannot access company portal from home, works in office",Access/Login,34
+"teams stcuk on grey loading screen, cannot join standup",Software,674
+i and my manager - bulk email to HR bounced for 5 recipients,Email,684
+"fingerprint login broken after windows update, have to type password, urgent pelase",Access/Login,186
+"need access to Jira for finance team, approved by manager, already raised this verbally",Access/Login,687
+"not urgent - forgot windows passsword and machine is now locked, urgent please",Access/Login,689
+"email recall feature not working, message already read, thanks in advance",Email,45
+"i - paper jam in reception printer in reception area, cleared it but keeps happpening",Hardware,700
+"internet is completely down in server room, 80 users affected please help",Network,710
+network share \\DC01\Finance giving access denied to sales team,Network,722
+"antivirus quarantined Tally exe, need it whitelsted",Software,723
+"machine boots into safe mode randomly, very slow to sue",Software,2
+"software upgrade broke integration with Confluence, urgent, any help appreciated",Software,729
+"my desktop machine - front usb ports on desktop not working at all, any help appreciated",Hardware,744
+"at your convenience, vpn software and antivirus conflicting, one crashes the other, kindly resole this",Software,747
+"email recall feature not working, message already read, please escalaet if needed",Email,748
+"i - email signature disappeared after recent outlook update, thanks in advance",Email,113
+"load balancer marking FSRV-02 as down, half the applicaion is broken",Network,768
+everyone in the HR department - calcuulator and snipping tool missing after windows 11 upgrade,Software,773
+me and two colleagues - sql query timing out after 100 seconds on SRV-01,Database,775
+"everyone in the sales department - software upgrade broke integration with ERP, urgent, please look into it",Software,788
+"our entire team - all browser bookmarks disappeared after crhome update, please look into it",Software,791
+"my laptop - headphone jack on laptop broken, needed for client calls, need this fixed today",Hardware,155
+my desktop machine - all browser bookmarks disappeared after chrome update,Software,136
+"me and two colleagues - load balancer marking FSRV-02 as down, hlf the application is broken",Network,806
+i and my manager - calculator and snipping tool missing after windows 11 upgrade,Software,361
+"low priority - load balancer marking FSRV-02 as down, half the appplication is broken, any help appreciated",Network,811
+"wrong data committed to invoices, need rollback assistance, any help appreciated",Database,826
+"account disabled by mistake, cannot login to anything, please esclaate if needed",Access/Login,165
+"ram seems low, machine very slow when opening 10 tabs, please help asap",Hardware,834
+"cannot ping WEBSVR-02 from my laptop, 100 percent packet lloss",Network,842
+"excel file says corrupted aand wont open, need data urgently, thanks in advance",Software,844
+"i - nosql cache out of sync with ARCHIVE_DB, stale data being served",Database,856
+"dns not resolving APPSRV-03 from office laptops, already raised this verbally",Network,858
+"cannot work at all, my desktop achine - emails from Rahul going to junk even after whitelist",Email,874
+everyone affected - software installation failing with error timeout,Software,41
+"business impacted - machine boots into safe mode randomly, very slow to use",Software,2
+"at your convenience, wrong data committed to reports, eed rollback assistance, any help appreciated",Database,892
+"business impacted - AutoCAD throws error 0xc000021a on every launch since the update, kindly resolve this",Software,894
+"production is down - antivirus quarantined Slack exe, need it whitelisted, any help appreciated",Software,895
+need bulk access provvisioning for 50 new joiners in legal tteam,Access/Login,901
+"at your convenience, shared calendar for marketing team not visible to new members, thanks in advance",Email,905
+escalating this - front usb ports on desktop not working at all,Hardware,182
+"email recall feature noot working, message already read, this is blocking my work",Email,45
+"table orers in HR_DB is locked, blocking all other queries, please help asap",Database,926
+low priority - my desktop machine - sccheduled backup failed last night for AANLYTICS_DB,Database,930
+task scheduler job failing with 0xc000021a on APPSRV-03,Software,19
+not urgent - i - user Amit not able to access Projects after folder permission change,Access/Login,939
+"me and two colleagues - connected to wifi but no internet access on my machine, tried restarting but no luck",Network,949
+"network switch in wing B rebooted itself, connectivity lost for 30 users",Network,961
+critiacl issue - laptop battery drains in 30 hours even when plugged in,Hardware,962
+"new joiner Sneha needs laptop setup and CMR access today, already raised this verbally",Access/Login,966
+emails bouncing back with error 401,Email,237
+"database link between WEBSVR-02 and ARCHIVE_DB broken after network change, already raised this verbally",Database,972
+me and two colleagues - bulk email to marketing bounced for 100 recipients,Email,973
+"production is down - headphone jack on laptop broken, needed for client calls, already raised this verbally",Hardware,155
+all userrs in wng D - vpn credentials being rejected even after passwrd reset,Access/Login,977
+intermittent packet lloss to APPSRV-03 causing application to freeze,Network,978
+"business impacted - my laptop - ram seems low, machine very slow when opening 100 tabs",Hardware,980
+"whole team blocked - our entire team - site-to-site vpn tunnel keeps dropping, production systems unreachable",Network,982
+"distribution list sales not delivering to all members, need this fixed today",Email,983
+"vpn software and antivirus conflicting, one rashes the other, this is blocking my work",Software,985
+"proxy settings blocking internal iste on new aptop, please escalate if needed",Network,988
+"password reset email not arriving, already chceked spam",Access/Login,1001
+all browser bookmarks disappeared after chrome update,Software,136
+"need temporary local admin rights to install Chrome, pleaase help assap",Access/Login,1015
+"cannot ping FSRV-02 from my laptop, 100 percent packet loss",Network,236
+"machine boots into safe mode randomly, very slow to use, already raised this verbally",Software,2
+getting spoofed spam from what llooks like internal addresses,Email,1023
+"docking station not detecting second monitor snice last week, any help aappreciated",Hardware,1024
+software installation failing with error timeout,Software,41
+"windows updae stuck at 5 percnt for 5 hours now, this is blocking my wokr",Software,1043
+several users on my floor - network priter the shared printer not showing on the network,Network,1044
+"at your convenience, cannot ping DC001 from my laptop, 100 percent packet loss, kindly resolve this",Network,1047
+"need read access to PROD_DB for audit reporting, manager approved",Database,1048
+"remote destop to SRV-01 fails with 0x800f0954, cannot access my work machine",Network,1060
+our entire team - vpn disconnects automatically after 10 minutes of idle tmie,Network,1061
+"me and two colleagues - reemote desktop to FSRV-02 fails with 503, cannot access my work machine",Network,1070
+"everyone in the procurement department - remote desktop to FSRV-02 fails with 401, cannot access my work machhine",Network,1071
+"low priority - everyone in the marketing department - numpad not working after coffee spill on keyboard yesterday, already raised this verbally",Hardware,1072
+"our entire team - all browser bookmarks disappeared after chrome update, already raised this verbally",Software,136
+"critical issue - table reports in ARCHIVE_DB is locked, blocking all other queries",Database,1075
+"i and my manager - machine boots into safe mode randomly, very slow to use, please look itno it",Software,2
+"network switch in wing B rebooted itself, connectivity lost for 10 users",Network,961
+i - all browser bookmarks disappeared after chrome update,Software,136
+"everyone in the HR department - outlook not receiving any new emails suddenly today, kindly resolve this",Email,1106
+"service account password expired, Firefox stopped working",Access/Login,1112
+"whenever you get a chance, start menu search not working afteer cumulative update",Software,189
+"urgent - onedrive not syncing, files stuck in pending since this moorning, please look into it",Software,1116
+"cannot work at all, outlook desktop and web showing different inbox contents",Email,269
+urgent - our entire tem - numpad noot working after coffee spill on keyboard yesterday,Hardware,1126
+"all browser bookmarks disappeared after chrome update, kindly resolve this",Software,136
+"front usb ports on desktop not working at all, kindly resolve this",Hardware,182
+"machine boots into safe mode randomly, very slow to use, tried restarting but no luck",Software,2
+"need read access to ARCHIVE_DB for procurement reporting, manager approved, already raised this verbally",Database,1133
+"escalating this - account disabled by mistake, cannot login to anything, kindly resolve this",Access/Login,165
+"emails bouncing back with error 0x80070005, please escalate if needed",Email,237
+"calendar invite not aappearing in ther persons calendar, please look into it",Email,1153
+"production REPORTING_DB at 100 percent cpu, application is crawling",Database,1157
+"all users in wnig D - machine boots into safe mode randomly, very slow to use, tried restarting but no luck",Software,2
+"projector in conference room A not displaying, important presentation in 30 mins, this is blocikng my work",Hardware,1168
+"low priority - calculator and snipping tool missing after windows 11 upgrade, please escalate if needed",Software,1172
+"email recall feature not working, message already read, aany help appreciated",Email,45
+"role changed to procurement manager, nede additional permissions in intrante portal",Access/Login,1189
+"the new joiner - scheduled backup failed last nght for REPORTING_DB, please help asap",Database,1199
+numpad not working after offee spill on keyboard yesterday,Hardware,1202
+"please help immediately, network rpinter HP LaserJet not showing on the network, already raised this verbally",Network,1203
+"fingerprint login broken after windows update, have to type password, tried restarting but no luck",Access/Login,186
+"not urgent - vendor Nisha needs temporary guest wifi and SAP access for 2 days, thanks in advance",Access/Login,1206
+"no rush but machine boots into safe mode randomly, very slow to use, urgent please",Software,2
+"whenever you get a chance, start menu search nnot working after cumulative update",Software,189
+business imppacted - contractor needs access to Zoho extended by 15 weeks,Access/Login,1224
+"at your convenience, all users in wing west - emails bouncing back with error ERR_CONNECTION_RESET",Email,1227
+the new joiner - all browser bookmarks disappeared after chrome update,Software,136
+"i - meeting invites showing wrong time zone for recipientss, this is blocking my work",Email,1231
+"several users on my floor - vpn disconnects automatically after 20 minutes of idle time, urgent pleaase",Network,1232
+"not urgent - role changed to marketing manager, need additional permissions in ERP",Access/Login,1235
+everyone affected - replication lag between primary and standby on APPSRV-03 is 15 mins,Database,1239
+"all users in wing ground floro - wifi kepes dropping every 100 minutes, very annoying",Network,1241
+bulk email to legal bounced for 50 recipients,Email,1245
+task scheduler job failing ith 0x800f0954 on SRV-DB01,Software,1248
+"i and my manager - role changed to HR manager, need additional permissions in Confluence",Access/Login,1259
+everyone in the procurement department - calculator and snipping tool missing after windows 11 upgrade,Software,361
+docking station not detecting second omnitor since last week,Hardware,1270
+"calculator and snipping tool missing after windows 11 upgrade, any help appreciated",Software,361
+"urgent - office phone handset not workng, no dil tone, need this fixed today",Hardware,1276
+"production is down - headphone jack on laptop broken, needed for client calls, please escalate if needed",Hardware,155
+"teams stuck on grye loading screen, cannot join standup, need this fixed today",Software,1277
+vpn credentials being rejceted even after password reset,Access/Login,1288
+"not urgent - i - need SRV-01 whitelisted on firewall, currently blocked, this is blocking my work",Network,1297
+everyne affected - touch creen on surface pro ont responding to input,Hardware,1304
+"several users on my floor - headphone jack on laptop broken, needed for client calls",Hardware,155
+"several users on my floor - headphone jack on laptp broken, needed for cclient calls, this is blocking my work",Hardware,1333
+low priority - all printers offline on floor 2 after network maintenance last night,Network,1334
+"cannot work at all, need read-only access to CRM for upcoming audit by finance team",Access/Login,1339
+"colleague Rohan left, please transfer their Invoices folder access to me, kindly resolve this",Access/Login,1360
+"cannot ping WEBSVR-02 from my laptop, 100 percent packet loss, already raised this verbally",Network,842
+"please help immediately, all users in wing est - cannot access old archived emails, search returns nothing, urgent please",Email,1373
+"Chrome license expired popup appearing every ffew minutes, already raised this verbally",Software,1376
+"business impacted - need shared drive \\FSRV-02\Reports access foor legal project, any hellp appreciated",Access/Login,1387
+"our entre team - vpn credentials being rejected even atfer password reset, aany help appreciated",Access/Login,1388
+no rush but front usb ports on desktop not working at all,Hardware,182
+"shared malbox for HR nt loading in outlook, tried restarting but no luck",Email,1396
+"business impacted - ram seems low, machine very slow when opening 100 tabs",Hardware,980
+"at your convenience, emails bouncing back with error 401",Email,237
+"role changed to ops manager, need additional permissions in SAP",Access/Login,1409
+production is down - forgot windows password and machine is now locked,Access/Login,59
+"several users on my floor - fingerprint login broken after windows update, have to type password",Access/Login,186
+"my destop machine - chrome not launching at all, task manager shows it running",Software,1420
+taask scheduler job failing with ERR_CONNECTION_RESET on SRV-01,Software,1421
+"at your convenience, all browser bookmarks disappeared after chrome update",Software,136
+"everyone in the legal department - sso login to Jira failing with error timeout, please help asap",Access/Login,1425
+"i and my manager - database certificate expiring in 100 days, renewal needed, need this fixed today",Database,1432
+"at your convenience, me adn two colleagues - contractor needs access to Zoo extended by 10 weeks",Access/Login,1434
+stored procedure in PRO_DDB throwing 0x80070005 since deployment,Database,1435
+"whole team blocked - eeveryone in the finance department - internet speed extremely slow in server room, file uplaods not completing, please help asap",Network,1438
+"laptop hinge is broken, screen wobbles during calls, tride restarting but no luck",Hardware,1443
+"cannot ping APPSRV-03 from my laptop, 100 percent packet loss, please help asap",Network,78
+outlook keeps crashing when i open attachments since monday,Software,190
+my laptop - all browser bookmarks disappeared after chrome update,Software,136
+"headphone jack on laptop broken, needed for client calls, urget please",Hardware,155
+"low priority - sso llogin to CRM failng with error 0x800f0954, need this fixed today",Access/Login,1460
+bulk email to ops bounced for 20 recipients,Email,1462
+my desktop machine - network share \\SRV-DB01\HR is inaccessible since mondaay,Network,1466
+"everyone affected - account disabled by mistake, cannot login to anything",Access/Login,165
+dns not resolving APPSRV-03 from office laptops,Network,858
+several users on my floor - outlook keeps crashing when i open attachments since the reboot,Software,1478
+"new employee starting monday, need Zho and email access ready",Access/Login,1481
+"network switch in server room rebooted itself, connectivity lost for 5 users",Network,1484
+"please help immediately, cannot access cloud porrtal from office network, works on mobile data, tried restarting but no luck",Network,1487
+our entire team - outlook desktop and web showing different inbox contents,Email,269
+locked out of my account after 10 failed attempts from this morning randomly,Access/Login,1495
+"remote desktop to APPSRV-03 fails with 0x800f0954, cannot access my work machine, thanks in advance",Network,1503
+zoom freezes after 3 minuts on video calsl,Software,1505
+"critical issue - fingerprint login broken after windows update, have to type password, any help appreciated",Access/Login,186
+"whenever you get a chance, need shared drive \\APPSRV-03\HR access for lgeal project",Access/Login,1510
+not urgent - email signature disappeared after recent outlook update,Email,113
+i and my manager - scheduled backup failed last night for PROD_DB,Database,1524
+"low priority - i and my manager - email attachments ont downloading, just shows spinning wheel",Email,1529
+"Photoshop crashes immediately on startup, reinstalling didnt help, thanks in advance",Software,1539
+"me and two colleagues - ewbcam not detected in teams and zoom on my laptop, already raised this verbally",Hardware,1540
+"whenever you get a chance, network share \\APPSRV-03\Reports giving access denied to ops team, tried restarting but no luck",Network,1541
+"not urgent - i and my manager - outlook desktop and web showing different inbox contents, please escalate if needed",Email,1544
+application cannot connect to ARCHIVE_DB from SRV-DB01 from around 9 am today,Database,1545
+my desktop machine - sso login to REP failing with error timeout,Access/Login,1547
+sql query timing out after 20 seconds on WEBSVR-02,Database,1558
+"not urgent - need bulk aaccess provisioning for 10 new joiners in sales team, this is blocking my work",Access/Login,1560
+everyone affected - calculator and snipping tool missing after windows 11 upgrade,Software,361
+"outlook desktop and web showing different inbox contents, kinly resolve this",Email,269
+"all users in wing ground floor - role changed to HR manager, need additional permissions in Confluence, please look into it",Access/Login,1569
+"me and two colleagues - shared mailbox for ops not loading in outlook, alerady raised this verbally",Email,1571
+"vpn not connecting since the reboot, error 503 keeps showing, thhis is blocking my work",Network,1577
+"at your convenience, shared calendar for finance team not visible to new members",Email,1580
+"my desktop machine - Slack license expired popp appearing every few minutes, any help appreciated",Software,1587
+"my workstation - Chrome using 99 percent cpu making laptop unusable, any help appreciated",Software,1594
+"no rush but i - outlook extremely slow when opening, takes 30 minutes to olad",Email,1597
+production is down - scanner in reception area not detected after driver update,Hardware,310
+"everyone affected - all users in wing east - new employee starting monday, need Zoho and email access ready",Access/Login,1604
+my desktop machine - forgot windows password and machine is now locked,Access/Login,59
+"finngerprint login broken after windows update, have to type password",Access/Login,186
+"email encryption certficate expired, cannot send secure emails, please escalate if neded",Email,1622
+"whenever you get a chance, replication lag between primary and standby on DC01 is 80 mins",Database,1628
+calendar invite not appearing in othr persons claendar,Email,1629
+"need bulk access provisioning for 3 new joiners in marketing team, please escalate if needed",Access/Login,1630
+"acccount disabled by mistake, cannot login to anything, please escalate if needed",Access/Login,165
+"need erad access to ARCHIVE_DB for HR reporting, manager approved",Database,1652
+"emails bouncing back with error timeout, any help appreciated",Email,1667
+"user Rohan nt able to access Invoices after folder permission change, tried restarting but no ulck",Access/Login,1668
+"sso login to Confluence failing with error 0x80070005, need this fixed today",Access/Login,1673
+critical issue - AutoCAD license expired popup appearing every few minutes,Software,1680
+"low priority - our entire team - teams stuck on grey loading screen, cannot join standup, please help asap",Software,1682
+"calculator and snipping tool missing after windows 11 upgrade, please look into it",Software,361
+"i and my manager - laptop hinge is broken, screen woobbles during calls, need this fixed today",Hardware,1689
+"me and two colleagues - network share \\APPSRV-03\Invoices is inaccessible since monday, please help asap",Network,1692
+"cannot ping SRV-DB01 from my laptop, 100 percent packet loss",Network,78
+"netwoork share \\SRV-DB01\HR is inaccessible since the power cut yesterday, already raised this verbbally",Network,1702
+"email signature disappeared after recent outlook update, please help asap",Email,113
+"networrk share \\APPSRV-03\Design giving access dened to sales team, already raised this verbally",Network,1714
+"everyone in the HR department - bulk email to procurement bounced for 5 recipients, this is blocking my work",Email,1717
+no rush but i and my manager - shared amilbox access for audit not working after mailbox migration,Access/Login,1722
+"everyone in the marketing department - software upgrade broke integration with ERP, urgent",Software,1724
+"calculator and snipping tool missing after windows 11 upgrade, tried restarting but no luck",Software,361
+user Rahul not able to access Finance after folder permission change,Access/Login,1735
+"wifi password was reset and now 100 users in wing ground floor cannot connect, thanks in advance",Network,1738
+"whole team blocked - new employee starting monday, need SAP and email access ready",Access/Login,1751
+"emails from Rahul going to junk even after whitelist, uurgent please",Email,1759
+no rush but network share \\FSRV-02\Reports giving access denied to audit team,Network,1763
+critical issue - vendor Vikram needs temporary guest wifi and Jira access for 2 days,Access/Login,1764
+urgent - sent emails stuck in otubox and not delivering,Email,1778
+"front usb ports on desktop not working at all, already raised this verbally",Hardware,182
+no rush but i and my manager - calculator and snipping tool missing after windows 11 upgrade,Software,361
+"business impacted - several users on my floor - wifi keeps dropping every 30 minutes, very annoying",Network,1786
+"cannot work at all, outlook desktop and web showing different inbox contents, tried restarting but no luck",Email,269
+ddns not resolving FSRV-02 from office laptops,Network,1794
+"cannot work at all, nosql cache out of sync with ANALYTICS_DB, stale ata being served",Database,1797
+"all users in wing C - headphone jack on laptop broken, needed for client calls",Hardware,155
+deadlock occurring between two jobs on invoices every 20 mins,Database,1808
+"statistics on PROD_DB outdated, query plas are inefficient",Database,1811
+ocntractor needs access to intranet portal extended by 100 weeks,Access/Login,1817
+"email recall feature not working, message alreaddy read",Email,1819
+"whole team blocked - vpn clieent installer not workign on windows 11, error 0x800f0954",Network,1826
+"emails bouncing back with error 0x80070005, kindly resolve this",Email,237
+"critical issue - machine boots into sfae mode randomly, very slow to use",Software,1832
+"all uusers in wing B - vpn nt connecting since the reboot, error 0x80070005 keeps showing",Network,1835
+my workstation - calculator and snipping tool missing after windows 11 upgrade,Software,361
+our entire taem - zoom freezes after 100 minutes on video calls,Software,1855
+need shared drive \\WEBSVR-02\Design access for HR project,Access/Login,1857
+business impacted - task scheduler job failing with 0xc000021a on APPSRV-03,Software,19
+"low priority - everyone in the legal department - windows update stuck at 50 percent for 50 hours now, kindly resolve this",Software,1863
+whole team blocked - need temporary local admin rights to install Firrefox,Access/Login,1865
+the new joiner - front usb ports on desktop not working at all,Hardware,182
+uotlook desktop and web showing different inbox contents,Email,269
+"internet speed extremely slow in recption area, ifle uploads ont completing",Network,1873
+"low priority - i - excel file says corrupted and wont open, need dta urgently, tried restarting but no luck",Software,1874
+"whole team blocked - new joiner Rahul needs laptop setup and ERP access today, please escalate if needed",Access/Login,1889
+"not urgent - cannot ping WEBSVR-02 from my laptop, 100 percent packet loss",Network,842
+"cannot access company portal from home, works in office, need this fixed today",Access/Login,34
+"me and two colleagues - bulk eail to HR bounced for 2 recipients, need this fixd today",Email,1915
+"all browser boomarks disappeared after chrome update, kindly resolve tis",Software,1917
+"whenever you get a chance, i and my manager - network share \\SRV-DB01\Design is inaccessible since the reboot",Network,1919
+"whenever yu get a chance, lal users in wing D - remote users cannot reach he office file server after the windows patch, this is blocking my work",Network,1923
+"please help immediately, everyone in the procurement department - locked out of my account after 2 failed attempts since this morning",Access/Login,1926
+"internet is completely down in server room, 5 users affected please help",Network,1933
+everyone in the sales department - laptop battery drainns in 30 hours even when plugged in,Hardware,1934
+everyone in the ops department - calculator and snipping tool missing after windows 11 upgrade,Software,361
+connected to wifi btu no internet access on my machine,Network,1935
+"i - fingerprint login broken after windows updat,e have to type password",Access/Login,412
+all browser bookmarks disapppeared after chrome update,Software,1939
+"cannot ping APPSRV-03 from my laptop, 100 percent packet loss, already raised this verbally",Network,842
+"whenever you get a chance, Teams crashes immediately on startup, reinstalling didnt hepl, please look ito it",Software,1949
+"me and two colleagues - wifi keeps dropping every 50 minutes, very annoying, urgent please",Network,1955
+"everyone afffected - everyone in the ops department - python import error for numpy on my work machine, this is blocking my work",Software,1958
+"urgent - Photoshop crashes immediately on startup, reinstalling didnt help",Software,1539
+urgent - forgot windows password and machine is now locked,Access/Login,59
+"email signature disappeared after recent outlook update, thanks in advance",Email,113
+our entire team - scheduled backup failed last night for ANALYTICS_DB,Database,1971
+"network switch in llab 3 rebooted itself, connectivity lost for 30 users",Network,1973
+"production is down - headphone jack on laptop broken, needed for client calls",Hardware,155
+"whenever you get a chance, i - mouse pointer freezing every few minutes, tried different usb porrt",Hardware,1976
+"all browser bookmarrks disappeared after chrome update, please help asap",Software,1978
+"machine boots into safe mode randomly, very slow to use, please escalate if needed",Software,2
+connected to wfii but no internet access on my machine,Network,1988
+the new joiner - vendor Vikram needs temporary guest wifi and intranet porrtal access for 2 days,Access/Login,1989
+"my laptop - docking station not detecting second monitor since alst week, any help appreciated",Hardware,1991
+urgent - outlook desktop and web showing different inbox contents,Email,269
+"urgent - the new joiner - password reset email not arriving, already checked spam, tried restarting but no luck",Access/Login,1999
+"email recall feature not working, message already read, any help appreciated",Email,45
+"email recall feature not working, message already read, please look into it",Email,45
+user Vikram not able to access Reports after folder permission change,Access/Login,2016
+front usb ports on ddesktop not working at all,Hardware,2027
+"email encryption certificate expiired, cannot send secure emails",Email,2034
+"whenever you get a chance, front usb ports on desktop not working at all",Hardware,2041
+me and two colleagues - AutoCAD license expired popup appearing every few minutes,Software,2051
+everyone in the audit department - Firfeox throws error timeout on every launch since the update,Software,2055
+"all users in wign D - python import error for numpy on my work machine, thanks in advance",Software,2060
+"start menu search not working after cmulative update, this is blocking my work",Software,2068
+"my desktop machine - dual monitor setup broke after drievr update, only noe screen works",Software,2069
+"no rush but i and my manager - internet speed extremely slow in server room, file uploads not completing",Network,2071
+"our entire team - acnnot access old archived emails, search returns othing",Email,2075
+"cannot access company portal from home, works in office, kindly resolve this",Access/Login,34
+our entire team - task scheduler job failing with 0xc000021a on WEBSVR-02,Software,19
+"network switch in llab 3 rebooted itself, connectivity lost for 100 users, urgent please",Network,1973
+"i and my manager - global address list ot showing new employees added this week, need this fixed today",Email,2105
+"no rush but i and my manager - vpn not connecting suddenly today, error 0xc000021a keeps showing, this is blocking my work",Network,2106
+"please help immediately, my workstation - right click context menu extremely slow to appear on desktop, any help appreciated",Software,2114
+"no rush but nosql cache out of sync with SALES_DB, stlae data being served",Database,2116
+sso ogin to Jira failing with error timeout,Access/Login,2122
+everyone in the HR department - need shared drive \\DC01\Fniance access for procurement project,Access/Login,2129
+network share \\DC01\Design giving access denied to leggal team,Network,2138
+whole team blocked - dns not resolving APPSRV-03 from office laptops,Network,858
+i - dns not resolving SRV-01 from offcie laptops,Network,2156
+"fingerprint login broken after windows update, have to type passwoord",Access/Login,186
+"several users on my flooor - laptop charger cable fraying, worried it will stop working, need this fixed today",Hardware,2171
+"at yuor convenience, email encryption cetrificate expired, cannot send secure emails, any help appreciated",Email,2185
+"please help immediately, need temporary local admin rights to install Teams",Access/Login,2191
+"vnp software and antivirus conflicting, one crashes the other, any help appreciated",Software,2196
+"low priority - word document not savign, losing work repeatedly",Software,2199
+"several users on my floor - connection pool exhausted on SRV-01, app returning errors, lease help sap",Database,2201
+"need access to CRM for marketing team, approved by manager",Access/Login,2205
+"Slack using 99 percent cpu making laptop unusable, already raised this verbally",Software,2208
+"at your convenience, wifi password was rset and now 10 users in wing east cannot connect",Network,2210
+"whenever you geet a chance, spacebar and enter key sticking on my keyboard",Hardware,2220
+"no rush but my workstation - internet speed extremely slow in wing B, fiile uploads not completing",Network,2225
+production is down - scanner in lab 3 not detected after driver upadte,Hardware,2227
+"task scheduler job failing with 0x800f0954 on WEBSVR-02, this is bocking my work",Software,2229
+"fingerprint login broken after windows update, have to type password, please escalate if needed",Access/Login,186
+"ram seems low, machine very slow when opening 10 tabs",Hardware,834
+"AutoCAD throws error 0x800f0954 on every launch since the update, please look into it",Software,2257
+"sql query timing out after 2 seconds on DC01, kindly resolve thsi",Database,2260
+"achine boots into safe mode randomly, very slow to use",Software,2
+vpn disconnects automatically aafter 50 minutes of idle ttime,Network,2270
+"cannot work at all, out of offce message not activating despiite being set correctly, this is lbocking my owrk",Email,2279
+"cannot work at alll, bulk email to legal bounced for 20 recipients, need this fixed today",Email,2281
+low priority - my desktop machine - network printer reception printer not showing on the netwrk,Network,2283
+"cannot install AutoCAD as it says another version already installed, thanks in advance",Software,2284
+wifi password was reset and now 100 users in wing ground floor cannot connect,Network,1738
+"cannot work at all, all users in wing C - fingerprint login broken aftr windows update, have to type password",Access/Login,2292
+"everyone affected - machine boots into safe mode randomly, very slow to use",Software,2
+"the new joiner - barcode scanner at reception stopped working since the poower cut yesterday, tried restarting but no luck",Hardware,2297
+"all users in wing east - temp tablespace on ANALYTICS_DB filling up during month-end reports, any help appreciated",Database,2303
+"chrome noot launching at all, task manager shows it running",Software,2306
+python miport error for numpy on my work machine,Software,2312
+"everyone affected - touch screen on sufrace prro not responding to input, urgent please",Hardware,2314
+vpn disconnects automatically atfer 10 minutes of idle time,Network,2316
+not urgent - forgot windows password and machine is now locked,Access/Login,59
+need temporary local admin rights to instal Teams,Access/Login,2322
+privileged accses request for FSRV-02 for weekend maintenance,Access/Login,2323
+everyone in tthe marketing department - pn disconnects automatically afetr 10 minutes of idle time,Network,2341
+"everyone affected - password reset email not arriving, already checked spm",Access/Login,2353
+"outlook not receiving any new emails from this morning randomly, need this fixed today",Email,2354
+"not urgent - cannot access company portal from home, works in office",Access/Login,34
+"screen resolution changed after windows update, everything loosk blurry",Software,2356
+"office phnoe handset nnot working, no dial tone",Hardware,2357
+"load balancre marking SRV-01 as down, half the application is broken",Network,2361
+"at your convenience, fingerprint login broken after windows update, have to type password, already raised this verbally",Access/Login,186
+sql query tiimng out after 30 seconds on FSRV-02,Database,2364
+"cannot ping WEBSVR-02 from my laptop, 100 percent packet loss",Network,842
+"ram seems low, machine very solw when opening 5 tabs",Hardware,2374
+need shared drive \\FSRV-02\Reports accses for HR project,Access/Login,2376
+intermittent pacekt loss to WEBSVR-02 causing application to freeze,Network,2381
+"escalating this - email recall feature not working, message already read",Email,45
+"at your convenience, emails taking 50 hours to deliver even within teh company, please escalate if needed",Email,2391
+my workstation - all browser bookmarks disappeared after chrome update,Software,136
+me and two colleagues - Teams using 99 percent cpu making laptop unusable,Software,2396
+"ARCHIVE_DB storage 95 ercent full, need expansion urgently, urgent please",Database,2399
+"at your convenience, laptop randomly shuts off durng meetings, very disruptive",Hardware,2408
+escalating tis - forgot windows password and machine is now locked,Access/Login,59
+"the new joiner - hdmi monitor shows no signal after slleep mode, please escalate if needed",Hardware,2413
+"production is down - me and two colleagues - load balancer marking DC01 as down, half the application is broken",Network,2419
+"headphone jack on laptop broken, needed for client calls, any help appreciated",Hardware,155
+"whenever you get a chance, intermittent packet loss to DC01 causing application to freeze",Network,2426
+everyone in the asles department - getting spoofed spam from what looks like internal addresses,Email,2429
+"wheever you get a chance, touch screen on surface pro not responding to input",Hardware,2431
+several users on my floor - docking station ont detecting second monitor since last weeek,Hardware,2433
+"i and my manager - fingerprint login broken after windows update, have to type password",Access/Login,186
+"annot access cloud portal from office network, works on mobile data, please escalate if needed",Network,2444
+"escalating this - wrong ata committed to users, need rollback assistance",Database,2446
+my desktop machine - outlook keeps crashing when i open attachments since monday,Software,190
+"outlook desktop and web showing different inbox contents, please help asap",Email,269
+"outlook desktop and web showing different inbox contents, please look into it",Email,269
+"cannot work at all, me and two colleagues - need shared drive \\FSRV-02\Reports access for legal project, thanks in advance",Access/Login,2463
+"Slack crashes immediateyl on startup, reinstalling didnt help",Software,2471
+the new joiner - forgot windows password and machine is now locked,Access/Login,59
+critical issue - email signature disappeared after recent outlook update,Email,113
+intermittent packet loss to FSRV-02 causing application to freeze,Network,114
+"urgent - machine boots into safe mode randomly, very slow to use, please look into it",Software,2
+business impacted - severla users on my floor - user Karan not able to access Finance after older permission change,Access/Login,2488
+all users in wing B - replication lag between primary and standby on SRV-DB01 is 80 mins,Database,2504
+"critical issue - i and my manager - antivirus quarantined Slack exe, need it whitelisted",Software,2506
+"lal browser bookmarks disappeared after chrome update, need this fixed today",Software,136
+"hdmi monitor shows no ssignal after sleep mode, urgent please",Hardware,2513
+"please help immediately, several users on my floor - wifi password was reset and now 2 users in wing ground floor cannot connect, need this fixed today",Network,2514
+"at your convenience, email recall feature not working, message already read, please look into it",Email,45
+my workstation - sso login to ERP failing with error 401,Access/Login,2517
+i - need temporary local aadmin rights to install Chrome,Access/Login,2530
+critical issue - i and my manager - Excel using 99 percent cpu making laptop unusable,Software,2533
+"i and my manager - machine boots into safe mode randomly, very slow to use",Software,2
+"front usb ports on desktop not working at all, kindly resolve tis",Hardware,182
+"cannot work at all, numpad not workking after coffee spill on keyboard yesterday",Hardware,2538
+low priority - new joiner Karan needs laptop setuup and Confluence access today,Access/Login,2539
+network share \\APPSRV-03\Design is inaccessible after the windows patch,Network,2546
+"teams stuck on grey loading screen, annot join standup",Software,2551
+"fingerprint login broken after windows update, have to type password, please help asap",Access/Login,186
+our entire team - calculator and snipping tool missing after windows 11 upgrade,Software,361
+"i and my manager - vpn not connecting after the weekend, error 0x800f0954 keps showing, thanks in advance",Network,2556
+"no rush but everyone in the finance department - software upgrade broke integration with Confluence, urgent, need this fixed today",Software,2557
+"table auudit_log in PROD_DB is locked, blocking all other queries, please escalate if needed",Database,2559
+"no rush but machine boots into safe mode randomly, very slow to use, please look into it",Software,2
+my laptop - need shared drive \\DC01\Finance access for HR project,Access/Login,2560
+"not urgent - headphone jack on laptop broken, needed for client calls",Hardware,155
+"calculator and snipping tool missing after winodws 11 upgrade, need this fixed today",Software,361
+"onedrive not sycing, files stuck in pending suddenly today",Software,2580
+"urgent - table reports in REPORTING_DB is locked, blocking all other queries, this is blocking my work",Database,2581
+"escalatiing this - service account password expired, Teams stopped working",Access/Login,2591
+"no rush but me and two coleagues - production ANALYTICS_DB at 20 percent cpu, application is crawling",Database,2606
+"low priority - cannot access company portal from home, works in office, kindly reslve this",Access/Login,2611
+"fingerprint login broken after windows update, hhave to type password, this is blocking my woork",Access/Login,2616
+"emails bouncing back with error 503, this is blocking my work",Email,2618
+"urgent - forgot windows password and machine is now locked, already raised this verbally",Access/Login,59
+everyone in the marketing department - locked out of my account after 15 failed attempts after the weekend,Access/Login,2625
+"please help immediately, statistics on HR_DB outdated, query plans are inefficient",Database,2628
+AutoCAD using 99 percent cpu making laptop unusalbe,Software,2631
+"role changed to HR manager, need additional permissions in Confluence",Access/Login,1259
+"i and my manager - docking station not detecting second monitor since last week, tried restarting but no luck",Hardware,2642
+"cannot send emails over 20 mb, getting rejected by server",Email,2646
+"account disabled by mistake, cannot login to aanything",Access/Login,2648
+i - desktop monitor has dad pixels in the center of scren,Hardware,2652
+"not urgent - headphone jack on laptop broken, needed for client calls, need this fixed today",Hardware,155
+i - latency spikes to SRV-01 causnig database timeouts,Network,2659
+me and two colleagues - barcode scanner at reception stopped working after the windows patch,Hardware,2661
